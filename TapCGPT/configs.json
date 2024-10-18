@@ -1,0 +1,7 @@
+{
+  "upgrade": true,
+  "cost": 500000,
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US"
+}
