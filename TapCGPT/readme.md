@@ -46,7 +46,8 @@ To get started with the bot, follow these steps:
 
 ```
 
-### 2. `datas.txt` 🗂️ -
+### 2. `datas.txt` 🗂️ - Get it from [here](https://t.me/KeoAirDropFreeNe/257/6879).
+
 
 ```txt
 query_id.../user...
