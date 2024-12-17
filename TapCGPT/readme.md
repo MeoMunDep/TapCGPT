@@ -12,6 +12,9 @@
 
 To get started with the bot, follow these steps:
 
+- **Node.js** (Version: `22.11.0`)
+- **npm** (Version: `10.9.0`)
+
 0. **Dowload NodeJS to run the bot**
 
 -> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
@@ -33,11 +36,14 @@ To get started with the bot, follow these steps:
 ```json
 {
   "upgrade": true,
-  "cost": 500000, // maximum cost for upgrade
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "cost": 500000,
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "delayEachAccount": [1, 81],
+  "bugPoints": true
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ -
